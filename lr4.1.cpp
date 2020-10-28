@@ -30,7 +30,7 @@ int main()
     }
 
     for (int z = 0; z < n; z++) // вывод искомого
-        printf("%c", a[z]);
+        printf("%c ", a[z]);
 
     return 0;
 }
